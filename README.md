@@ -1,2 +1,7 @@
 # web-orologia-japonesa
-examen final
+
+Examen Final del Curso de Programación Web.
+
+## Author
+
+Ing. Carlos Daniel Suárez Sánchez.
